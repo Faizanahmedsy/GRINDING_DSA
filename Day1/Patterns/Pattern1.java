@@ -4,7 +4,6 @@ public class Pattern1 {
 
         int numOfRows = 4;
         int numOfCols = 5;
-// hello from faizan
         for (int row = 1; row <= numOfRows; row++) {
 
             for (int col = 1; col <= 5; col++) {
